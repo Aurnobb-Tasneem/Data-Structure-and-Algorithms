@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1698078205 source:d:\cse225l\module07_sl\mannual\sortedtype.cpp
+	"sortedtype.h"
+	<iostream>
+
+1698078743 d:\cse225l\module07_sl\mannual\sortedtype.h
+
+1698078743 source:d:\cse225l\module07_sl\mannual\sortedtype.h
+
+1698078810 source:d:\cse225l\module07_sl\mannual\main.cpp
+	<iostream>
+	"sortedtype.h"
+	"sortedtype.cpp"
+
+1698078205 d:\cse225l\module07_sl\mannual\sortedtype.cpp
+	"sortedtype.h"
+	<iostream>
+
